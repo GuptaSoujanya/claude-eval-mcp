@@ -1,0 +1,6 @@
+{
+  "skills": [
+    { "name": "benchmark_model", "trigger": "benchmark model", "description": "Runs accuracy evaluation probe." },
+    { "name": "profile_latency", "trigger": "profile latency", "description": "Measures TTFT and ITL latency." }
+  ]
+}
