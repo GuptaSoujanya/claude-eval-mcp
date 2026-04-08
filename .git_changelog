@@ -1,0 +1,6 @@
+# Engineering Changelog: claude-eval-mcp
+
+Inception Date: 2026-04-08
+Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
+
+- [2026-04-08] chore: scaffold claude-eval-mcp Anthropic MCP server and pyproject.toml
