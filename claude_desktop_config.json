@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-evaluator": {
+      "command": "python3",
+      "args": ["-m", "claude_eval.server"]
+    }
+  }
+}
