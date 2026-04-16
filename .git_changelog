@@ -4,3 +4,4 @@ Inception Date: 2026-04-08
 Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 
 - [2026-04-08] chore: scaffold claude-eval-mcp Anthropic MCP server and pyproject.toml
+- [2026-04-16] feat: mcp: implement JSON-RPC 2.0 stdio server protocol compliant with MCP spec
