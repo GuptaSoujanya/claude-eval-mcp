@@ -7,3 +7,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2026-04-16] feat: mcp: implement JSON-RPC 2.0 stdio server protocol compliant with MCP spec
 - [2026-04-24] feat: tools: expose run_benchmark tool with model_id and task_name arguments
 - [2026-05-03] feat: tools: expose measure_latency tool with prompt and backend parameters
+- [2026-05-11] feat: tools: expose verify_rag_faithfulness tool for context validation
