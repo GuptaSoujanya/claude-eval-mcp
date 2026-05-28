@@ -9,3 +9,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2026-05-03] feat: tools: expose measure_latency tool with prompt and backend parameters
 - [2026-05-11] feat: tools: expose verify_rag_faithfulness tool for context validation
 - [2026-05-19] test: add unit tests for JSON-RPC request serialization and tool routing
+- [2026-05-28] ci: configure GitHub Actions automated test workflow for Python 3.10-3.12
