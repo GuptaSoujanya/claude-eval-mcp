@@ -13,3 +13,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2026-06-05] docs: add Claude Desktop configuration snippet (claude_desktop_config.json)
 - [2026-06-14] feat: tools: add list_available_benchmarks discovery tool
 - [2026-06-22] feat: reporters: return structured markdown and text summary to Claude UI
+- [2026-06-30] fix: ensure stderr logging does not corrupt stdout JSON-RPC message frames
