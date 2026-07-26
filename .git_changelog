@@ -16,3 +16,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2026-06-30] fix: ensure stderr logging does not corrupt stdout JSON-RPC message frames
 - [2026-07-09] test: verify stdio transport isolates logging from JSON payloads
 - [2026-07-17] docs: add full usage walkthrough running evals from Claude Code in terminal
+- [2026-07-26] perf: cache benchmark configurations to reduce MCP tool response latency
