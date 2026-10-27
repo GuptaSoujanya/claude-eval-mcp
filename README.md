@@ -48,3 +48,5 @@ Add to your `claude_desktop_config.json`:
 ## License
 
 MIT License (c) 2024 Soujanya Gupta.
+
+<!-- PR #4: docs: clarify benchmark metric configuration options -->
