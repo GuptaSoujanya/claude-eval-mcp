@@ -52,3 +52,5 @@ MIT License (c) 2024 Soujanya Gupta.
 <!-- PR #4: docs: clarify benchmark metric configuration options -->
 
 <!-- PR #17: perf: optimize memory buffer reuse during batch evaluation -->
+
+<!-- PR #30: test: expand edge case coverage for empty input strings -->
