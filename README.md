@@ -50,3 +50,5 @@ Add to your `claude_desktop_config.json`:
 MIT License (c) 2024 Soujanya Gupta.
 
 <!-- PR #4: docs: clarify benchmark metric configuration options -->
+
+<!-- PR #17: perf: optimize memory buffer reuse during batch evaluation -->
